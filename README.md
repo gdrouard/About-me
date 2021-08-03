@@ -2,7 +2,7 @@ You will find in this repository some information about me, including a CV and a
 
 **CV** : *CV_Drouard_Gabin_03082021.pdf*
 
-**Projects** : *MyProjects_03082021.pdf*
+**Projects** : *Myprojects_03082021.pdf*
 
 *contact information :*
 
